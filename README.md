@@ -129,7 +129,7 @@ Currently exploring scalable AI deployment using Docker, Kubernetes, AWS, and Fa
 
   
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/ESP32.png" width="55"/>
+<img src="[https://upload.wikimedia.org/wikipedia/commons/7/74/ESP32.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ESP32-CAM.jpg/960px-ESP32-CAM.jpg)" width="55"/>
 
   
 
@@ -147,14 +147,9 @@ Currently exploring scalable AI deployment using Docker, Kubernetes, AWS, and Fa
 * UART
 * SPI
 * I2C
-* PWM
-* Servo Motors
 * Sensor Integration
-* Ultrasonic Sensors
 * IoT
 * Robotics
-* Autonomous Navigation
-* Obstacle Avoidance
 * Object Detection
 * Human Detection
 * FPV Systems
@@ -166,6 +161,20 @@ Currently exploring scalable AI deployment using Docker, Kubernetes, AWS, and Fa
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,idea,linux,docker,git,github"/>
 </p>
+
+---
+
+# 🌱 Currently Learning
+
+* Large Language Models (LLMs)
+* AI Agents
+* LangChain
+* MLOps
+* Kubernetes
+* AWS Cloud Services
+* CI/CD Pipelines
+* Advanced Computer Vision
+* Reinforcement Learning
 
 ---
 
@@ -187,9 +196,7 @@ AI-powered autonomous robot capable of:
 
 ## 🚗 Autonomous Delivery Robot
 
-* Autonomous Navigation
 * Object Detection
-* AI-assisted Decision Making
 * Raspberry Pi
 * ESP32
 * Sensor Fusion
@@ -220,27 +227,15 @@ Built using
 
 ---
 
-# 🌱 Currently Learning
 
-* Large Language Models (LLMs)
-* AI Agents
-* LangChain
-* MLOps
-* Kubernetes
-* AWS Cloud Services
-* CI/CD Pipelines
-* Advanced Computer Vision
-* Reinforcement Learning
-
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IGp-le008&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGp-le008&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -250,7 +245,7 @@ Built using
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=IGp-le008&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -270,7 +265,7 @@ Built using
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=IGp-le008&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -300,7 +295,7 @@ https://drive.google.com/file/d/1WKGBogyg1E8jP_98ciLkC-cH7ZDcChDH/view?usp=shari
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=IGp-le008&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
