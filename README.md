@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Piyush Jha</h1>
 
 <h3 align="center">
-AI Engineer • Robotics Developer • Cloud & DevOps Enthusiast • Full Stack Developer
+AI Engineer • Robotics Developer • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -129,7 +129,7 @@ Currently exploring scalable AI deployment using Docker, Kubernetes, AWS, and Fa
 
   
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/7/74/ESP32.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ESP32-CAM.jpg/960px-ESP32-CAM.jpg)" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Noun_Robot_1749584.svg" width="55"/>
 
   
 
@@ -255,7 +255,7 @@ Built using
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IGp-le008&theme=tokyo-night"/>
 
 </p>
 
