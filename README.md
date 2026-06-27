@@ -283,7 +283,7 @@ https://www.linkedin.com/in/piyush-jha-791102193/
 
 📄 **Resume**
 
-https://drive.google.com/file/d/1WKGBogyg1E8jP_98ciLkC-cH7ZDcChDH/view?usp=sharing
+https://drive.google.com/file/d/1RmVCA-waMzdalMsNZJKmA2W9YfSzVF_u/view?usp=sharing
 
 ---
 
