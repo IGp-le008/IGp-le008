@@ -18,7 +18,7 @@ Building intelligent systems that combine Artificial Intelligence, Robotics, Clo
 <img src="https://img.shields.io/badge/LinkedIn-Piyush_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="[https://drive.google.com/file/d/1WKGBogyg1E8jP_98ciLkC-cH7ZDcChDH/view?usp=sharing](https://drive.google.com/file/d/1RmVCA-waMzdalMsNZJKmA2W9YfSzVF_u/view?usp=sharing)">
+<a href="https://drive.google.com/file/d/1RmVCA-waMzdalMsNZJKmA2W9YfSzVF_u/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 
