@@ -32,15 +32,14 @@ Building intelligent systems that combine Artificial Intelligence, Robotics, Clo
 
 💡 I enjoy building intelligent systems that combine:
 
-* 🤖 Artificial Intelligence
+* 🤖 Agentic AI
 * 🧠 Machine Learning & Deep Learning
 * 👁️ Computer Vision
-* 🚗 Autonomous Robotics
-* ☁️ Cloud Computing
-* 🐳 DevOps
-* 🌐 Full Stack Development
+* ☁️ Basic Cloud Computing
+* 🐳 Basic Docker
+* 🌐 Basic Web Development
 
-Currently exploring scalable AI deployment using Docker, Kubernetes, AWS, and FastAPI while developing autonomous robotic systems using Raspberry Pi and ESP32.
+Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastAPI while developing autonomous robotic systems using Raspberry Pi and ESP32.
 
 ---
 
@@ -194,26 +193,6 @@ AI-powered autonomous robot capable of:
 
 ---
 
-## 🚗 Autonomous Delivery Robot
-
-* Object Detection
-* Raspberry Pi
-* ESP32
-* Sensor Fusion
-
----
-
-## 📄 Intelligent Document Classification
-
-Machine Learning system for automatically classifying and renaming employee documents including:
-
-* Citizenship
-* Passport
-* Certificates
-* Land Registration
-* Employee Documents
-
----
 
 ## 🌐 Full Stack Applications
 
@@ -288,11 +267,7 @@ https://drive.google.com/file/d/1RmVCA-waMzdalMsNZJKmA2W9YfSzVF_u/view?usp=shari
 
 ---
 
-# 💭 Favorite Quote
 
-> *"Artificial Intelligence and Robotics are not replacing human potential—they are amplifying it."*
-
----
 
 <p align="center">
 
@@ -304,6 +279,6 @@ https://drive.google.com/file/d/1RmVCA-waMzdalMsNZJKmA2W9YfSzVF_u/view?usp=shari
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+⭐ Thanks for visiting my profile!
 
 </h3>
