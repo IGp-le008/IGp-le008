@@ -1,7 +1,7 @@
 # <h1 align="center">Hello World! I'm Piyush Jha</h1>
 
 <h3 align="center">
-AI Engineer • Robotics Developer • Cloud & DevOps Enthusiast
+Combining AI Engineer • Robotics • Cloud & DevOps 
 </h3>
 
 <p align="center">
@@ -16,10 +16,6 @@ Building intelligent systems that combine Artificial Intelligence, Robotics, Clo
 
 <a href="https://www.linkedin.com/in/piyush-jha-791102193/">
 <img src="https://img.shields.io/badge/LinkedIn-Piyush_Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://drive.google.com/file/d/1RmVCA-waMzdalMsNZJKmA2W9YfSzVF_u/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 
 </p>
