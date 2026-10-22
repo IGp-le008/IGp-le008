@@ -173,18 +173,6 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 ---
 
-# 📫 Connect With Me
-
-📧 **Email**
-
-**[jhapeeyush1@gmail.com](mailto:jhapeeyush1@gmail.com)**
-
-🔗 **LinkedIn**
-
-https://www.linkedin.com/in/piyush-jha-791102193/
-
----
-
 
 
 <p align="center">
