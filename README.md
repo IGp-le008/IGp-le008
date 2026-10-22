@@ -26,7 +26,7 @@ Building intelligent systems that combine Artificial Intelligence, Robotics, Clo
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 🎓 B.Tech Student passionate about Artificial Intelligence, Robotics, Cloud Computing, and Software Engineering.
 
@@ -43,9 +43,8 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 ---
 
-# 🚀 Tech Stack
 
-## 💻 Programming Languages
+## Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash"/>
@@ -53,7 +52,7 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 ---
 
-## 🤖 AI / Machine Learning
+## AI / Machine Learning
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
@@ -72,29 +71,7 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 ---
 
-## 🌐 Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript"/>
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-</p>
-
-* REST APIs
-* API Development
-* Authentication
-* JSON
-* WebSockets
-
----
-
-## 🗄️ Databases
+## Databases
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
@@ -102,7 +79,7 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 ---
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,bash"/>
@@ -112,15 +89,12 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 * Kubernetes
 * AWS
 * Git
-* GitHub
 * Linux
-* Bash
-* GitHub Actions
 * Containerization
 
 ---
 
-## 🤖 Robotics & Embedded Systems
+## Robotics & Embedded Systems
 
 <p align="left">
 
@@ -140,69 +114,21 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 * Raspberry Pi
 * ESP32
-* Arduino
-* Embedded C/C++
-* GPIO Programming
-* UART
-* SPI
-* I2C
 * Sensor Integration
 * IoT
 * Robotics
-* Object Detection
-* Human Detection
 * FPV Systems
 
 ---
 
-## 🛠 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,docker,git,github"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-* Large Language Models (LLMs)
-* AI Agents
-* LangChain
-* MLOps
-* Kubernetes
-* AWS Cloud Services
-* CI/CD Pipelines
-* Advanced Computer Vision
-* Reinforcement Learning
-
----
-
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🤖 Disaster Response Robot
-
-AI-powered autonomous robot capable of:
-
-* Human Detection
-* Object Detection
-* Live FPV Video Streaming
-* Voice Commands
-* Obstacle Avoidance
-* Raspberry Pi + ESP32 Integration
-* Real-time Computer Vision
 
 ---
 
 
 ## 🌐 Full Stack Applications
-
-Built using
-
-* React
-* FastAPI
-* PostgreSQL
-* Docker
-* REST APIs
 
 ---
 
@@ -260,10 +186,6 @@ Built using
 🔗 **LinkedIn**
 
 https://www.linkedin.com/in/piyush-jha-791102193/
-
-📄 **Resume**
-
-https://drive.google.com/file/d/1RmVCA-waMzdalMsNZJKmA2W9YfSzVF_u/view?usp=sharing
 
 ---
 
