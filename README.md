@@ -155,9 +155,7 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IGp-le008&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IGp-le008&theme=tokyo-night" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -165,12 +163,14 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IGp-le008&theme=tokyonight&no-frame=true&row=1&column=6"/>
-<img src="https://github.com/users/IGp-le008/achievements/quickdraw&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=IGp-le008&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IGp-le008&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 ---
 
 
