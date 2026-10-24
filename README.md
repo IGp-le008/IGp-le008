@@ -26,14 +26,13 @@ Building intelligent systems that combine Artificial Intelligence, Robotics, Clo
 
 🎓 B.Tech Student passionate about Artificial Intelligence, Robotics, Cloud Computing, and Software Engineering.
 
-💡 I enjoy building intelligent systems that combine:
+ I enjoy building intelligent systems that combine:
 
 * 🤖 Agentic AI
 * 🧠 Machine Learning & Deep Learning
 * 👁️ Computer Vision
 * ☁️ Basic Cloud Computing
 * 🐳 Basic Docker
-* 🌐 Basic Web Development
 
 Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastAPI while developing autonomous robotic systems using Raspberry Pi and ESP32.
 
@@ -57,13 +56,9 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 **Libraries & Concepts**
 
 * Machine Learning
-* Deep Learning
 * Computer Vision
 * Neural Networks
 * OpenCV
-* NumPy
-* Pandas
-* Matplotlib
 
 ---
 
@@ -82,11 +77,9 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 </p>
 
 * Docker
-* Kubernetes
 * AWS
 * Git
 * Linux
-* Containerization
 
 ---
 
@@ -110,10 +103,8 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 * Raspberry Pi
 * ESP32
-* Sensor Integration
 * IoT
 * Robotics
-* FPV Systems
 
 ---
 
@@ -152,19 +143,19 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 ---
 
+
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IGp-le008&theme=tokyo-night" alt="GitHub Contribution Graph"/>
-</p>
+
+[![GitHub Contributions](https://img.shields.io/badge/GitHub-View%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/IGp-le008)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IGp-le008&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+
+[![GitHub Repositories](https://img.shields.io/badge/GitHub-Explore%20Repositories-8957e5?style=for-the-badge&logo=github)](https://github.com/IGp-le008?tab=repositories)
+
 
 ---
 
