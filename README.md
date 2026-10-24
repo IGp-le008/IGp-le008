@@ -53,8 +53,6 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-**Libraries & Concepts**
-
 * Machine Learning
 * Computer Vision
 * Neural Networks
@@ -73,13 +71,9 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 ## Cloud & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,bash"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,bash"/>
 </p>
 
-* Docker
-* AWS
-* Git
-* Linux
 
 ---
 
@@ -88,16 +82,12 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
-
-  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Noun_Robot_1749584.svg" width="55"/>
-
-  
+ 
 
 <img src="https://skillicons.dev/icons?i=arduino"/>
 
 </p>
+
 
 **Technologies**
 
@@ -105,17 +95,6 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 * ESP32
 * IoT
 * Robotics
-
----
-
-# Featured Projects
-
-## 🤖 Disaster Response Robot
-
----
-
-
-## 🌐 Full Stack Applications
 
 ---
 
@@ -143,33 +122,8 @@ Currently exploring scalable Agentic AI using Docker, Kubernetes, AWS, and FastA
 
 ---
 
-
-# 📈 Contribution Graph
-
-
-[![GitHub Contributions](https://img.shields.io/badge/GitHub-View%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/IGp-le008)
-
----
-
-# 🏆 GitHub Trophies
-
-
-[![GitHub Repositories](https://img.shields.io/badge/GitHub-Explore%20Repositories-8957e5?style=for-the-badge&logo=github)](https://github.com/IGp-le008?tab=repositories)
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IGp-le008&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
----
-
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=IGp-le008&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 </p>
 
 ---
